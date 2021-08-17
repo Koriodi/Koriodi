@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mirko Honorio Parodi AKA @Koriodi
+- 👀 I’m interested in mapping, architecture and data post production 
+- 🌱 I’m currently learning architecture
+- 💞️ I’m looking to collaborate on mapping qgis projects specially in Latam, but anywhere with enough data might do
+- 📫 Anyone can reach me through instagram as @koriodi, don´t be shy please
